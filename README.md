@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **full-stack development, data analysis, and building scalable applications**
 
-- 📝 I regularly write articles on [about technology, data, and my learning journey: medium.com/@geetika_keim](about technology, data, and my learning journey: medium.com/@geetika_keim)
+- 📝 I regularly write articles on (about technology, data, and my learning journey: medium.com/@geetika_keim)
 
 - 💬 Ask me about **product strategy, user experience, and turning ideas into real products**
 
