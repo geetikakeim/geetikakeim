@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geetika Keim</h1>
-<h3 align="center">An Engineering Management graduate student at UMass Amherst with a background in software engineering and a passion for building data-driven, user-focused products.</h3>
+<h3 align="center">An Engineering Management graduate student at University of Massachusetts - Amherst with a background in software engineering and a passion for building data-driven, user-focused products.</h3>
 
 - 🔭 I’m currently working on **data-driven product and analytics projects**
 
